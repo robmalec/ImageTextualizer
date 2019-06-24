@@ -1,4 +1,4 @@
-To use this program, create a file called charGradient.txt in the same directory as the .py file. 
+To use this script, create a file called charGradient.txt in the same directory as the .py file. 
 This file should include 1 line of characters, and should be in order of the pixel brightness level that each character is supposed to represent.
 
 For example:
